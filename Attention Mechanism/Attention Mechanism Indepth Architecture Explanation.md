@@ -3,7 +3,6 @@
 # 🧠 Attention Mechanism — In-Depth Architecture Explanation (সহজ + গভীরভাবে)
 
 ## 1️⃣ কেন Attention দরকার ছিল?
-
 Vanilla Seq2Seq-এ:
 [
 x_1,x_2,\dots,x_T ;\xrightarrow{\text{Encoder}}; C ;\xrightarrow{\text{Decoder}}; y_1,y_2,\dots
@@ -266,4 +265,5 @@ Attention matrix visualize করলে দেখা যায়:
 **Attention decoder-কে পুরো input sequence থেকে প্রয়োজনীয় অংশ বেছে নেওয়ার ক্ষমতা দেয়—এতে context bottleneck ভেঙে যায় এবং alignment তৈরি হয়।**
 
 ---
+
 
