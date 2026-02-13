@@ -1,3 +1,4 @@
+
 ---
 
 ## ✅ Advantages of Bidirectional RNN (সুবিধা)
@@ -143,4 +144,5 @@ Live speech recognition → ❌
 **Bidirectional RNN context-rich এবং accurate, কিন্তু future dependency-র কারণে real-time-এ অচল এবং computationally expensive।**
 
 ---
+
 
