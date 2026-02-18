@@ -1,6 +1,6 @@
 ---
 
-# 🧠 Deep Learning 
+#  Deep Learning 
 
 This repository contains my learning journey in **Deep Learning**.
 As a beginner, I am exploring neural networks, model training, and practical implementations using Python and popular deep learning frameworks.
