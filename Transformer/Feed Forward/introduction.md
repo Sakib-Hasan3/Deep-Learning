@@ -1,3 +1,4 @@
+
 # What is a Feed Forward Network (FFN)?
 
 **Feed Forward Network (FFN)** হলো সবচেয়ে basic neural network structure যেখানে তথ্য একদিকে প্রবাহিত হয়:
