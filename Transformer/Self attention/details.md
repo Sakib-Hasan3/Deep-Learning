@@ -1,3 +1,4 @@
+
 # Self-Attention Layer — Deep Detailed Working (Concept → Math → Intuition)
 
 Self-Attention হলো এমন একটি mechanism যেখানে **প্রতিটি token বাক্যের অন্য সব token-কে weighted ভাবে দেখে** এবং নিজের নতুন contextual representation তৈরি করে।
